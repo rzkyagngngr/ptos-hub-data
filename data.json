@@ -12,11 +12,23 @@
       "programeName": "Android 15",
       "imageFolder": "gambar/KIKY"
     },
+    "KARDI": {
+      "nickname": "Ardian",
+      "username": "ardianp",
+      "password": "ardianp",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIwMjk2MDkyNjk5IiwiYXVkIjoiY29tLnBlbGluZG8ubXkiLCJ1aWQiOjQ2MjIsImlzUGRzIjp0cnVlLCJpc3MiOiJodHRwczovL3d3dy5wZWxpbmRvLmNvLmlkIiwiZXhwIjoxNzgyMDg2NDE4LCJpYXQiOjE3NjEzNTA0MTh9.vy96j6RjMTPAjEk-jFjRh9XUwoeFFFuxGqIawHuFf44",
+      "lokasi": "Jl. Perak Timur No.610, Perak Utara, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60165, Indonesia",
+      "lat": "-7.1992876",
+      "lng": "112.7331354",
+      "komentar": "null",
+      "programeName": "Android 15",
+      "imageFolder": "gambar/ardian"
+    },
     "GONDRONG": {
       "nickname": "GONDRONG",
       "username": "gondrong",
       "password": "gondrong",
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODkwMzM4OCIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjoyMjkwMiwiaXNQZHMiOmZhbHNlLCJpc3MiOiJodHRwczovL3d3dy5wZWxpbmRvLmNvLmlkIiwiZXhwIjoxNzU3NTc5MDk0LCJpYXQiOjE3MzY4NDMwOTR9.3bh-37Fwx4fW6LCvKp3VpHQvoROy5Yy4-mk2UvqfpR4",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODkwMzM4OCIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjoyMjkwMiwiaXNQZHMiOmZhbHNlLCJpc3MiOiJodHRwczovL3d3dy5wZWxpbmRvLmNvLmlkIiwiZXhwIjoxNzgxNDE4NDYzLCJpYXQiOjE3NjA2ODI0NjN9.dlX3Jvi0HhqLGYskU56zuOqay6BNAix62P0utcKKjuE",
       "lokasi": "Wisma SMR, Lt.12 Kav.89, Jl. Yos Sudarso No.89, RT.10/RW.11, Sunter Jaya, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14350",
       "lat": "-6.1499858",
       "lng": "106.8855642",
@@ -24,11 +36,35 @@
       "programeName": "Android 14",
       "imageFolder": "gambar/GONDRONG"
     },
+    "EHAN": {
+      "nickname": "EHAN BIKE",
+      "username": "ehan",
+      "password": "ehan",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyMDAwMDkxNzAzNSIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjo0NDI1NSwiaXNQZHMiOnRydWUsImlzcyI6Imh0dHBzOi8vd3d3LnBlbGluZG8uY28uaWQiLCJleHAiOjE3Nzg4OTIyMDgsImlhdCI6MTc1ODE1NjIwOH0.i_b_4YGTmL0TGrcV9KCfBr5LWTi2fvpcKVnt8xSKtCo",
+      "lokasi": "Wisma SMR, Lt.12 Kav.89, Jl. Yos Sudarso No.89, RT.10/RW.11, Sunter Jaya, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14350",
+      "lat": "-6.1499858",
+      "lng": "106.8855642",
+      "komentar": "null",
+      "programeName": "iOS 26.2",
+      "imageFolder": "gambar/EHAN"
+    },
+    "KAMRUL": {
+      "nickname": "KAMRUL",
+      "username": "kamrul",
+      "password": "kamrul",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxOTk5MDQxMTA4MCIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjozNDExNCwiaXNQZHMiOnRydWUsImlzcyI6Imh0dHBzOi8vd3d3LnBlbGluZG8uY28uaWQiLCJleHAiOjE3ODk4Mjc3ODAsImlhdCI6MTc2OTA5MTc4MH0.FV1nT1epmKLVqAuc3rTaofbXfoFcDvApt8juEbBw_s4",
+      "lokasi": "Jl. Perak Timur No.610, Perak Utara, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60165, Indonesia",
+      "lat": "-7.1992876",
+      "lng": "112.7331354",
+      "komentar": "null",
+      "programeName": "Android 16",
+      "imageFolder": "gambar/GONDRONG"
+    },
     "PREL": {
       "nickname": "PREL",
       "username": "prel",
       "password": "prel",
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxOTk4MDExNTQxMiIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjozODcwNCwiaXNQZHMiOnRydWUsImlzcyI6Imh0dHBzOi8vd3d3LnBlbGluZG8uY28uaWQiLCJleHAiOjE3Njc5NTY0MDEsImlhdCI6MTc0NzIyMDQwMX0.2if95VcxxwxnM74p2wJNLWpMOu2iVRHLpGjAPgzrpC0",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxOTk4MDExNTQxMiIsImF1ZCI6ImNvbS5wZWxpbmRvLm15IiwidWlkIjozODcwNCwiaXNQZHMiOnRydWUsImlzcyI6Imh0dHBzOi8vd3d3LnBlbGluZG8uY28uaWQiLCJleHAiOjE3ODAxMDg0OTgsImlhdCI6MTc1OTM3MjQ5OH0.07QCOsEu2aaOd1DhMax_piIRHu27HP-EbPUCNbGnLmw",
       "lokasi": "Wisma SMR, Lt.12 Kav.89, Jl. Yos Sudarso No.89, RT.10/RW.11, Sunter Jaya, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14350",
       "lat": "-6.1499858",
       "lng": "106.8855642",
@@ -36,5 +72,14 @@
       "programeName": "iOS 18.3.2",
       "imageFolder": "gambar/PREL"
     }
+  },
+  "appinfo": {
+    "version": "1.0.0",
+    "name": "Absensi Mobile App",
+    "package": "com.pelindo.absensi",
+    "qrisURL": "https://s3-ptos-m.s3.ap-southeast-3.amazonaws.com/LAMPIRAN_UPDATE/WhatsAppImage2026-01-07at9.26.56PM.jpeg",
+    "qrisEnable": false,
+    "qrisCountdown": 2,
+    "updateURL": "https://raw.githubusercontent.com/rkyagabsensi/abv2/main/mobile/app/app.json"
   }
 }
