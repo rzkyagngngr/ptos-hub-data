@@ -80,6 +80,7 @@
     "qrisURL": "https://s3-ptos-m.s3.ap-southeast-3.amazonaws.com/LAMPIRAN_UPDATE/WhatsAppImage2026-01-07at9.26.56PM.jpeg",
     "qrisEnable": false,
     "qrisCountdown": 2,
+    "rizky" : "true",
     "updateURL": "https://raw.githubusercontent.com/rkyagabsensi/abv2/main/mobile/app/app.json"
   }
 }
